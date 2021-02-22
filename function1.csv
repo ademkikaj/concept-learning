@@ -1,0 +1,12 @@
+x1,x2,x3,y
+lo,lo,lo,lo
+lo,lo,hi,lo
+lo,med,lo,lo
+lo,med,hi,med
+lo,hi,lo,lo
+lo,hi,hi,hi
+med,med,lo,med
+med,hi,lo,med
+med,hi,hi,hi
+hi,lo,lo,hi
+hi,hi,lo,hi
